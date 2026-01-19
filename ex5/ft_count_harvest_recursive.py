@@ -9,6 +9,3 @@ def ft_count_harvest_recursive():
             ft_recursive(n + 1)
 
     ft_recursive(1)
-
-
-ft_count_harvest_recursive()
